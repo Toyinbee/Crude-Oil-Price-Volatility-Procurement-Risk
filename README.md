@@ -75,6 +75,9 @@ LIMIT 10;
 - **U.S. production barely explains price moves** (only 0.27 correlation) global demand and geopolitics matter far more than domestic output.
 - **A real, current anomaly:** as of late September 2026, Brent was trading about $23 above WTI, far above the $1.74 historical average verified against real news, tied to 2026 Strait of Hormuz tension.
 
+  
+![Dashboard Report page 1](crude oil page 1.png)
+
 ## What I'd recommend
 
 1. Don't assume stability even normal weeks can see double-digit swings.
