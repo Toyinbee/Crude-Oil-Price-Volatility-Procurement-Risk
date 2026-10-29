@@ -77,7 +77,7 @@ LIMIT 10;
 
 ## What I'd recommend
 
-1. Don't assume stability — even normal weeks can see double-digit swings.
+1. Don't assume stability even normal weeks can see double-digit swings.
 2. WTI alone is a reasonable single indicator to track, given how closely it mirrors the global price.
 3. Watch the Brent-WTI gap itself as an early warning sign when it widens sharply, it usually reflects real geopolitical or supply risk.
 
