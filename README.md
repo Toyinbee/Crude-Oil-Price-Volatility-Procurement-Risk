@@ -69,10 +69,10 @@ LIMIT 10;
 | Current Brent premium (Sept 2026) | $23.51/barrel |
 | Production-to-price correlation | 0.27 |
 
-- **Prices swing more than they look like on average.** The worst single-week spike was +373% and the worst drop was -83.5%, both in April-May 2020 — the real COVID oil crash, not a data error.
+- **Prices swing more than they look like on average.** The worst single-week spike was +373% and the worst drop was -83.5%, both in April-May 2020 the real COVID oil crash, not a data error.
 - **The data found real history on its own.** Without being told anything about world events, the "riskiest weeks" query surfaced the 2020 COVID crash, the 2008-2009 financial crisis, the 1990 Gulf War, 1998's Asian financial crisis, and 2022's Russia-Ukraine invasion.
 - **WTI and Brent move almost identically** (0.99 correlation) tracking one gives a reliable picture of the other.
-- **U.S. production barely explains price moves** (only 0.27 correlation) — global demand and geopolitics matter far more than domestic output.
+- **U.S. production barely explains price moves** (only 0.27 correlation) global demand and geopolitics matter far more than domestic output.
 - **A real, current anomaly:** as of late September 2026, Brent was trading about $23 above WTI, far above the $1.74 historical average verified against real news, tied to 2026 Strait of Hormuz tension.
 
 ## What I'd recommend
