@@ -97,7 +97,7 @@ Python (pandas), SQL (SQLite), EIA Open Data API, Google Colab, Looker Studio
 ## Links
 
 - Live dashboard: https://datastudio.google.com/reporting/e4f9591f-2497-4b02-a80c-6e6a1a7e3932
-- Case study write-up: *(add Notion link)*
+- Case study write-up: https://app.notion.com/p/Crude-Oil-Price-Volatility-Procurement-Risk-3eecd905012f8139b60cd1464ded1c0f?source=copy_link
 - Notebook: `oil_price_volatility_analysis.ipynb` (in this repo)
 
 ---
